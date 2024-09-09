@@ -36,7 +36,7 @@ const Appointment = async ({ params: { userId } }: SearchParamProps) => {
           />
 
           {/* Footer */}
-          <p className="text-center mt-10 py-12 text-gray-600">© 2024 CarePluse</p>
+          <p className="text-center mt-10 py-12 text-gray-600">© 2024 WellBee</p>
         </div>
       </section>
     </div>
